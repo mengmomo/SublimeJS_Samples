@@ -1,0 +1,16 @@
+{
+  "name": "JSDemo",
+  "description": "demo plugin powered by SublimeJS",
+  "version": "0.1.0",
+  "author": {
+    "name": "akira-cn",
+    "email": "akira.cn@gmail.com"
+  },
+  "main": "index.js",
+  "licenses": [
+    {
+      "type": "The MIT License",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}

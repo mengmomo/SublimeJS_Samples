@@ -1,0 +1,19 @@
+[
+    {
+        "id": "file",
+        "children":
+        [
+            {
+                "caption": "JSDemo Command",
+                "id": "jsdemo_cmd",
+                "children":
+                [
+                    {
+                        "caption": "Hello World",
+                        "command": "hello"
+                    }
+                ]
+            }
+        ]
+    }
+]
